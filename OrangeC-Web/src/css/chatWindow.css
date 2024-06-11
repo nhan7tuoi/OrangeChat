@@ -1,0 +1,12 @@
+.message:hover .icons {
+    display: block;
+}
+
+.icons {
+    display: none;
+}
+
+.icon {
+    cursor: pointer;
+    margin: 0 5px;
+}
